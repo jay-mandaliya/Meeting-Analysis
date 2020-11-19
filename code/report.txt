@@ -1,0 +1,36 @@
+Report for speaker 1
+
+* Work done until now *
+-> Latest updates from my end is the homepage design of mobile application.
+-> I have created the design with bottom navigation tabs and main container.
+-> Navigation tabs are used by user to navigate to new screen.
+-> While main container consist the list of various products.
+-> The first section list most visited products and most popular products.
+-> The second section has the list of various kids products such as books and toys.
+-> The last section of the main container has the list of products purchased by women's.
+-> The scrollview was stucked with their initial products and was not scrolling horizontally.
+
+* Work will be done *
+-> From now I'm focusing to work on the description page because the users after clicking on their interested product will land on description page.
+-> The description page design will take into consideration the image of product, description and the price.
+
+* Issues encountered *
+-> There was a issue regarding the custom list for products, because I have made the list in three different sections, I faced problem while scrolling the bottom list.
+
+
+Report for speaker 2
+
+* Work done until now *
+-> Latest development from my end is related to the backend database in which I have created three main tables; first is product description, second is stock information and third is browsing history.
+-> The first table consists of total 5 columns, the second table is linked with first table and has three columns and the last table has 4 columns and has information related to browsing history of products which are visited by different users.
+-> From now I'm planning to generate a payment work flow and integrate it with payment gateway.
+-> Once the users has selected to buy products then they will be allowed to enter further information such as address and contact information.
+
+* Work will be done *
+-> I will save the order information of users in the orders table and then user will be redirected to the payment gateway to complete their order purchase.
+
+* Issues encountered *
+-> There was also a major issue with the database modelling for three tables, because all of the tables were interrelated; it was difficult to create a foreign key from product table and to join it with remaining two tables.
+-> At first it was issue to fetch results without foreign key but afterwards the issue has been resolved.
+
+
